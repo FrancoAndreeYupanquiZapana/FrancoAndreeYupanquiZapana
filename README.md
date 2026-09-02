@@ -29,17 +29,6 @@
 * **Idiomas:** Español (Nativo) | Inglés (**A2+**).
 * **Origen:** Madre de Dios, Perú 🇵🇪 | 21 años.
 
----
-
-### Proyectos Destacados <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif" width="28"/>
-
-| 📍 Reporte Territorial | 🌳 QR Monitoreo |
-| :--- | :--- |
-| Plataforma de monitoreo y turismo sostenible para la conservación regional. | Sistema de gestión y control para la recolección de la castaña amazónica. |
-| `Astro` `React` `MongoDB` | `Kotlin` `Android` `NodeJS` |
-| [👉 Ver Repositorio](https://github.com/FrancoAndreeYupanquiZapana/ReporteTerritorial) | [👉 Ver Repositorio](https://github.com/FrancoAndreeYupanquiZapana/qr_monitoreo) |
-
----
 
 ### Tech Stack <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="28"/>
 
