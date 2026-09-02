@@ -33,16 +33,11 @@
 
 ### Proyectos Destacados <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif" width="28"/>
 
-<div align="center">
-
-<a href="https://github.com/FrancoAndreeYupanquiZapana/ReporteTerritorial">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoAndreeYupanquiZapana&repo=ReporteTerritorial&theme=tokyonight&show_owner=false&locale=es" width="48%" />
-</a>
-<a href="https://github.com/FrancoAndreeYupanquiZapana/qr_monitoreo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoAndreeYupanquiZapana&repo=qr_monitoreo&theme=tokyonight&show_owner=false&locale=es" width="48%" />
-</a>
-
-</div>
+| 📍 Reporte Territorial | 🌳 QR Monitoreo |
+| :--- | :--- |
+| Plataforma de monitoreo y turismo sostenible para la conservación regional. | Sistema de gestión y control para la recolección de la castaña amazónica. |
+| `Astro` `React` `MongoDB` | `Kotlin` `Android` `NodeJS` |
+| [👉 Ver Repositorio](https://github.com/FrancoAndreeYupanquiZapana/ReporteTerritorial) | [👉 Ver Repositorio](https://github.com/FrancoAndreeYupanquiZapana/qr_monitoreo) |
 
 ---
 
@@ -76,8 +71,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FrancoAndreeYupanquiZapana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoAndreeYupanquiZapana&layout=compact&theme=tokyonight&hide_border=true&locale=es" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrancoAndreeYupanquiZapana&theme=tokyonight" width="97%" />
 
 <br/><br/>
 
