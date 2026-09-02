@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Banner Morado / Azul Épico -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Franco%20Andree%20Yupanqui&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%"/>
 
-<!-- Texto Animado -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=2575FC&center=true&vCenter=true&width=650&lines=Ingenier%C3%ADa+de+Sistemas+(10mo+Semestre)+%7C+UNAMAD;Tecnolog%C3%ADa+para+la+Conservaci%C3%B3n+y+Protecci%C3%B3n+Ambiental;Fullstack+%7C+Mobile+Kotlin+%7C+IoT+%7C+IA;Desarrollador+de+Software+en+RONAP)
 
 <p align="center">
@@ -31,16 +29,15 @@
 
 ---
 
-### Proyectos Destacados (Automatizados) <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif" width="28"/>
+### Proyectos Destacados <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif" width="28"/>
 
 <div align="center">
 
-<!-- Solo reemplaza REPO_1 y REPO_2 por los nombres exactos de tus repositorios públicos -->
-<a href="https://github.com/FrancoAndreeYupanquiZapana/ReporteTerritorial.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoAndreeYupanquiZapana&repo=ReporteTerritorial.git&theme=tokyonight&show_owner=false" width="48%" />
+<a href="https://github.com/FrancoAndreeYupanquiZapana/ReporteTerritorial">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoAndreeYupanquiZapana&repo=ReporteTerritorial&theme=tokyonight&show_owner=false" width="48%" />
 </a>
-<a href="https://github.com/FrancoAndreeYupanquiZapana/qr_monitoreo.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoAndreeYupanquiZapana&repo=qr_monitoreo.git&theme=tokyonight&show_owner=false" width="48%" />
+<a href="https://github.com/FrancoAndreeYupanquiZapana/qr_monitoreo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoAndreeYupanquiZapana&repo=qr_monitoreo&theme=tokyonight&show_owner=false" width="48%" />
 </a>
 
 </div>
