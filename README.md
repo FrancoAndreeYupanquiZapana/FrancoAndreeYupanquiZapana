@@ -36,11 +36,11 @@
 <div align="center">
 
 <!-- Solo reemplaza REPO_1 y REPO_2 por los nombres exactos de tus repositorios públicos -->
-<a href="https://github.com/FrancoAndreeYupanquiZapana/NOMBRE_DE_TU_REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoAndreeYupanquiZapana&repo=NOMBRE_DE_TU_REPO_1&theme=tokyonight&show_owner=false" width="48%" />
+<a href="https://github.com/FrancoAndreeYupanquiZapana/ReporteTerritorial.git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoAndreeYupanquiZapana&repo=ReporteTerritorial.git&theme=tokyonight&show_owner=false" width="48%" />
 </a>
-<a href="https://github.com/FrancoAndreeYupanquiZapana/NOMBRE_DE_TU_REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoAndreeYupanquiZapana&repo=NOMBRE_DE_TU_REPO_2&theme=tokyonight&show_owner=false" width="48%" />
+<a href="https://github.com/FrancoAndreeYupanquiZapana/qr_monitoreo.git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoAndreeYupanquiZapana&repo=qr_monitoreo.git&theme=tokyonight&show_owner=false" width="48%" />
 </a>
 
 </div>
@@ -67,7 +67,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### Scripting, Redes & Servidores <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif" width="28"/>
+#### Redes & Servidores <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif" width="28"/>
 ![MikroTik](https://img.shields.io/badge/MikroTik-000000?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/Shell_.sh-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Batch Script](https://img.shields.io/badge/Batch_.bat-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
