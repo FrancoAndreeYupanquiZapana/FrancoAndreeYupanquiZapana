@@ -1,7 +1,9 @@
 <div align="center">
 
+<!-- Banner Morado / Azul -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Franco%20Andree%20Yupanqui&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%"/>
 
+<!-- Texto Animado -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=2575FC&center=true&vCenter=true&width=650&lines=Ingenier%C3%ADa+de+Sistemas+(10mo+Semestre)+%7C+UNAMAD;Tecnolog%C3%ADa+para+la+Conservaci%C3%B3n+y+Protecci%C3%B3n+Ambiental;Fullstack+%7C+Mobile+Kotlin+%7C+IoT+%7C+IA;Desarrollador+de+Software+en+RONAP)
 
 <p align="center">
@@ -21,7 +23,7 @@
 ### Sobre Mí <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" width="30"/>
 
 * **Formación:** Estudiante del **10.º semestre de Ingeniería de Sistemas** en la *Universidad Nacional Amazónica de Madre de Dios (UNAMAD)* (2026-2).
-* **Enfoque Tecnológico:** Apasionado por desarrollar software orientado a la **conservación ambiental, protección de flora y fauna amazónica, turismo sostenible e impacto social** (ayuda a la niñez).
+* **Enfoque Tecnológico:** Software orientado a la **conservación ambiental, protección de flora/fauna, turismo sostenible e impacto social** (ayuda a la niñez).
 * **Experiencia:** Desarrollador de Software en **RONAP** *(Recolectores Orgánicos de la Nuez Amazónica del Perú)*.
 * **Liderazgo:** Representante Estudiantil en **FEUNAMAD**.
 * **Idiomas:** Español (Nativo) | Inglés (**A2+**).
@@ -34,19 +36,19 @@
 <div align="center">
 
 <a href="https://github.com/FrancoAndreeYupanquiZapana/ReporteTerritorial">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoAndreeYupanquiZapana&repo=ReporteTerritorial&theme=tokyonight&show_owner=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoAndreeYupanquiZapana&repo=ReporteTerritorial&theme=tokyonight&show_owner=false&locale=es" width="48%" />
 </a>
 <a href="https://github.com/FrancoAndreeYupanquiZapana/qr_monitoreo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoAndreeYupanquiZapana&repo=qr_monitoreo&theme=tokyonight&show_owner=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoAndreeYupanquiZapana&repo=qr_monitoreo&theme=tokyonight&show_owner=false&locale=es" width="48%" />
 </a>
 
 </div>
 
 ---
 
-### Tech Stack & Herramientas <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="28"/>
+### Tech Stack <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="28"/>
 
-#### Frontend, Móvil & Web
+#### Frontend & Móvil
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -72,44 +74,20 @@
 
 ---
 
-### Gráfico de Actividad Anual <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="28"/>
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FrancoAndreeYupanquiZapana&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Gráfico de Barras de Actividad" />
-
-</div>
-
----
-
-### Estadísticas Generales & Lenguajes <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" width="28"/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=FrancoAndreeYupanquiZapana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoAndreeYupanquiZapana&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=FrancoAndreeYupanquiZapana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoAndreeYupanquiZapana&layout=compact&theme=tokyonight&hide_border=true&locale=es" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancoAndreeYupanquiZapana&theme=tokyonight&hide_border=true" width="97%" />
-
-</div>
-
----
-
-### Juego de la Serpiente en Contribuciones
-
-<div align="center">
-
 <img src="https://raw.githubusercontent.com/FrancoAndreeYupanquiZapana/FrancoAndreeYupanquiZapana/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 
-</div>
+<br/><br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Pacman" />
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mayankagra/mayankagra/master/assets/pacman.gif" width="100%" alt="Pacman" />
+<br/>
 
 <sub>Desarrollado con pasión desde Madre de Dios, Perú 🇵🇪 • Capital de la Biodiversidad</sub>
 
